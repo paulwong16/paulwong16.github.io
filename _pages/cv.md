@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Wang Zhijie（王智杰）"
 permalink: /cv/
 author_profile: true
 redirect_from:

@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.E. in Telecommunication Engineering, Beijing University of Posts and Telecommunications, 2012 (expected)
+* B.E. in Telecommunication Engineering, Beijing University of Posts and Telecommunications, July 2019 (expected).
 
 Experience
 ======
-* Research Intern (Nov 2018 - Present)
-  * Megvii Technology Ltd. (Face ++)
+* Megvii Technology Ltd. (Face ++) (Nov 2018 - Present)
+  * Research Intern
   * SLAM Group at Megvii Research. Focus on vision and laser fusion SLAM.
   * Mentor: Mr. Liu Xiao
   * Leader: Dr. Jian Sun
 
-* Non-graduate Research Student (Jul 2018 - Sep 2018)
-  * National University of Singapore
+* National University of Singapore (Jul 2018 - Sep 2018)
+  * Non-graduate Research Student
   * UAV Group at Department of Electrical and Computer Engineering. Focus on visual SLAM and underwater image enhancement.
   * Supervisor: Prof. Ben M. Chen
   * Co-supervisor: Dr. Lin Feng
 
-* Research Intern (Sep 2017 - Jun 2018)
-  * Tsinghua University
+* Tsinghua University (Sep 2017 - Jun 2018)
+  * Research Intern
   * iVip Group at Department of Electronic Engineering. Foucs on Visual SLAM and ROS programming.
   * Supervisor: Prof. Fei Qiao
 

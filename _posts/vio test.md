@@ -1,4 +1,13 @@
-# Tests on Two Major VIO Algorithms #
+---
+title: 'Tests on Two Popular VIO Algorithms'
+date: 2012-08-14
+permalink: /posts/2018/07/Tests-on-Two-Popular-VIO-Algorithms/
+tags:
+  - SLAM
+  - Robotics
+---
+
+# Tests on Two Popular VIO Algorithms #
 
 - **Test date:** July 31st.
 

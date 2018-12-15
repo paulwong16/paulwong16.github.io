@@ -1,6 +1,6 @@
 ---
 title: 'Tests on Two Popular VIO Algorithms'
-date: 2012-08-14
+date: 2018-07-31
 permalink: /posts/2018/07/Tests-on-Two-Popular-VIO-Algorithms/
 tags:
   - SLAM

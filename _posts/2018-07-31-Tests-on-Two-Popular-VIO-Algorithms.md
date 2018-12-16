@@ -54,6 +54,10 @@ We use the [Kalibr](https://github.com/ethz-asl/kalibr) to calibrate the cameras
 
 The test video are showing below.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BQSNwNUB4Jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eOhhFY5rdk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We record the odometry of these two algorithms and plot them in MATLAB in the same coordinate. Fig 1 shows that after turnning off the loop-closing mode, \[1] has a drift in X-Y plane though we started and ended in the same position while the Fig 2 shows that \[2] has a bigger drift in Z.
 
 Besides, \[2] needs more CPU resources because of the processing of stereo images. And \[1] performs not so good when pirouetting.

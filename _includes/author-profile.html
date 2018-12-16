@@ -109,6 +109,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}" target="_blank"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
+      {% if author.zhihu %}
+        <li><a href="{{ author.zhihu }}" target="_blank"><i class="fa fa-fw fa-zhihu" aria-hidden="true"></i>Zhihu</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>

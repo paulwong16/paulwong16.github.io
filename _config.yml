@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wang Zhijie"
   avatar           : "bio-zhijie-square-resized.jpg"
-  bio              : "Final Year in Telecommunication Engineering, SICE@BUPT"
+  bio              : "Final Year undergraduate in Telecommunication Engineering, SICE@BUPT"
   location         : "Beijing, China"
   employer         :
   googlescholar    :
@@ -112,6 +112,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/wang-zhi-jie-80/"
 
 
 # Reading Files

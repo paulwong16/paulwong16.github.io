@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Wang Zhijie（王智杰）"
+title: "Wang Zhijie"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[EN](http://paulwong16.github.io/cv/) [中文](http://paulwong16.github.io/cv_cn/)
 
 Education
 ======
@@ -25,11 +26,11 @@ Experience
 * National University of Singapore (Jul 2018 - Sep 2018)
   * Non-graduate Research Student
   * UAV Group at Department of Electrical and Computer Engineering. Focus on visual SLAM and underwater image enhancement.
-  * Supervisor: Prof. Ben M. Chen
+  * Supervisor: <a href="http://www.mae.cuhk.edu.hk/~bmchen/" target="_blank">Prof. Ben M. Chen</a>
   * Co-supervisor: Dr. Lin Feng
 
 * Tsinghua University (Sep 2017 - Jun 2018)
   * Research Intern
   * iVip Group at Department of Electronic Engineering. Foucs on Visual SLAM and ROS programming.
-  * Supervisor: Prof. Fei Qiao
+  * Supervisor: <a href="http://nics.ee.tsinghua.edu.cn/people/qiaofei/" target="_blank">Prof. Fei Qiao</a>
 

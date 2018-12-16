@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 - Xinjun Liu, Chao Yu, Fei Qiao, Fugui Xie, **Zhijie Wang**, A Robot SLAM System Towards Dynamic Environments, *CN Patent*. No. CN 108596974A. **Published** (<a href="http://paulwong16.github.io/files/2018102980426.pdf" target="_blank">Download</a>)
 
 - Zelei Cheng, **Zhijie Wang**, Feng Zheng, Cloud Computing Security, *2018 International Conference on Trustworthy Computing and Services*. **Accpeted** ([Download]())

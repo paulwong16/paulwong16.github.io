@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[EN](http://paulwong16.github.io/cv/) [中文](http://paulwong16.github.io/cv_cn/)
+[EN](http://paulwong16.github.io/cv/)	[中文](http://paulwong16.github.io/cv_cn/) <a href="http://paulwong16.github.io/files/Resume_CN.pdf">简历</a>
 
 教育经历
 ======

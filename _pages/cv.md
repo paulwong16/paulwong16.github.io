@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[EN](http://paulwong16.github.io/cv/) [中文](http://paulwong16.github.io/cv_cn/)
+[EN](http://paulwong16.github.io/cv/) <a href="http://paulwong16.github.io/files/Resume.pdf">CV</a>	[中文](http://paulwong16.github.io/cv_cn/)
 
 Education
 ======

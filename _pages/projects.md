@@ -7,13 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-# Gazebo Simulator for AGVs #
+# Odom-Laser Calibration Tool #
 
 Copyright Megvii Technology Ltd. 
 
-Instructions Later.
+<img src="http://paulwong16.github.io/files/calibration.png" alt="calibration_tool" width="800"/>
 
-<img src="http://paulwong16.github.io/files/gazebo.png" alt="gazebo" width="800"/>
+Here we implemented a easy-use tool for following parameters' calibration: yaw-rotation and xy-translation between odom and 2D-LiDAR, and radius of odom's wheels and axle between them. For more details and usage please reference to our project's page.
+
+- References: Censi, Andrea, Franchi, Antonio, Marchionni, Luca & Oriolo, Giuseppe (2013). Simultaneous calibration of odometry and sensor parameters for mobile robots. IEEE Transactions on Robotics, 29, 475-492.
+
+<a href="https://github.com/MegviiRobot/OdomLaserCalibraTool"><i class="fas fa-external-link-alt" aria-hidden="true"></i>Source Code</a>
 
 # Continuous Localization and Mapping in low-light GPS-denied Environments #
 

@@ -15,6 +15,8 @@ Copyright Megvii Technology Ltd.
 
 Here we implemented a easy-use tool for following parameters' calibration: yaw-rotation and xy-translation between odom and 2D-LiDAR, and radius of odom's wheels and axle between them. For more details and usage please reference to our project's page.
 
+For Chinese version introduction please reference to homepage of my colleague <a href="https://blog.csdn.net/heyijia0327/article/details/88571176">Dr. Yijia He</a>.
+
 - References: Censi, Andrea, Franchi, Antonio, Marchionni, Luca & Oriolo, Giuseppe (2013). Simultaneous calibration of odometry and sensor parameters for mobile robots. IEEE Transactions on Robotics, 29, 475-492.
 
 <a href="https://github.com/MegviiRobot/OdomLaserCalibraTool"><i class="fas fa-external-link-alt" aria-hidden="true"></i>Source Code</a>

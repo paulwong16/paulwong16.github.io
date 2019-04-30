@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Bachelor in Telecommunication Engineering at Beijing University of Posts and Telecommunications (<a href="https://www.bupt.edu.cn/" target="_blank">BUPT</a>) expected to graduate in July 2019, and I am currently a research intern in SLAM Group at Megvii Research (<a href="https://www.faceplusplus.com/" target="_blank">Face ++</a>). <a href="http://paulwong16.github.io/files/Resume.pdf" target="_blank">Click here</a> to view my up-to-date CV. If you want to know more about me **or you'd like to join us**, please feel free to shot me an email (paul dot wangzhijie at outlook dot com).
+I am a Bachelor in Telecommunication Engineering at Beijing University of Posts and Telecommunications (<a href="https://www.bupt.edu.cn/" target="_blank">BUPT</a>) expected to graduate in July 2019, and I am currently a research intern in SLAM Group at Megvii Research (<a href="https://www.faceplusplus.com/" target="_blank">Face ++</a>). <a href="http://paulwong16.github.io/files/Resume.pdf" target="_blank">Click here</a> to view my up-to-date CV. If you want to know more about me, please feel free to shot me an email (paul dot wangzhijie at outlook dot com). (Also if you'd like to join slam group@megvii, I will forward to my colleague.)
 
 # Research Interests #
 

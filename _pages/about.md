@@ -8,17 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a Bachelor in Telecommunication Engineering at Beijing University of Posts and Telecommunications (<a href="https://www.bupt.edu.cn/" target="_blank">BUPT</a>) expected to graduate in July 2019, and I am currently a research intern in SLAM Group at Megvii Research (<a href="https://www.faceplusplus.com/" target="_blank">Face ++</a>). <a href="http://paulwong16.github.io/files/Resume.pdf" target="_blank">Click here</a> to view my up-to-date CV. If you want to know more about me, please feel free to shot me an email (paul dot wangzhijie at outlook dot com). (Also if you'd like to join slam group@megvii, I will forward to my colleague.)
+I am now a first-year M.Eng student in Dept. of ECE, University of Waterloo (<a href="https://uwaterloo.ca/" target="_blank">UWaterloo</a>), and expected to graduate in Jan 2021. I received my B.Eng in Telecommunication Engineering at Beijing University of Posts and Telecommunications (<a href="https://www.bupt.edu.cn/" target="_blank">BUPT</a>) in Jun 2019. <a href="http://paulwong16.github.io/files/Resume.pdf" target="_blank">Click here</a> to view my up-to-date CV. If you want to know more about me, please feel free to shot me an email (paul dot wangzhijie at outlook dot com).
 
 # Research Interests #
 
 * SLAM, VIO, SFM
 
-* 3D Mapping & Reconstruction
+* 3D Mapping
 
-* Image Quality Enhancement
+* Image Processing
 
 # Recent News #
+
+* September 2nd, 2019. I began my Master study in University of Waterloo.
+
+* June 26th, 2019. I was graduated from Beijing University of Posts and Telecommunications with Bachelor of Engineering.
+
+* June 20th, 2019. I ended the wonderful journey in Megvii Tech, thanks to all of my colleagues, friends and mentors!
+
+* June 5th, 2019. We submitted a CN Patent "A motion estimation algorithm based on LiDAR considering about robot’s motion blur".
+
+* May 21st, 2019. Our paper "Deep Feature Aggregated Conditional GAN for Underwater Image Enhancement" was submitted to IEEE Transactions on Circuits and Systems for Video Technology.
 
 * November 21st, 2018. I joined SLAM Group of Megvii Research, Megvii Technology Ltd. (Face ++) as a research intern.
 
@@ -32,4 +42,4 @@ I am a Bachelor in Telecommunication Engineering at Beijing University of Posts 
 
 * April 4th, 2018. A CN Patent titled "A Robot SLAM System Towards Dynamic Environments" was submitted to CNIPA (China National Intellectual Property Administration).
 
-* September 11th, 2017. I joined <a href="http://nics.ee.tsinghua.edu.cn/people/ivip/index.html" target="_blank">iVip Group</a>, Tsinghua Univeristy as a research intern.
+* September 11th, 2017. I joined <a href="http://nics.ee.tsinghua.edu.cn/people/ivip/index.html" target="_blank">iVip Group</a>, Tsinghua University as a research intern.

@@ -13,15 +13,17 @@ redirect_from:
 
 Education
 ======
-* B.E. in Telecommunication Engineering, Beijing University of Posts and Telecommunications, July 2019 (expected).
+* M.Eng in Electrical and Computer Engineering, University of Waterloo, Jan 2021 (expected).
+
+* B.E. in Telecommunication Engineering, Beijing University of Posts and Telecommunications, Jun 2019.
 
 Experience
 ======
-* Megvii Technology Ltd. (Face ++) (Nov 2018 - Present)
+* Megvii Technology Ltd. (Face ++) (Nov 2018 - Jun 2019)
   * Research Intern
   * SLAM Group at Megvii Research. Focus on vision and laser fusion SLAM.
-  * Mentor: Mr. Liu Xiao
-  * Leader: Dr. Jian Sun
+  * Mentor: Mr. Xiao Liu
+  * Leader: Dr. Yichen Wei
 
 * National University of Singapore (Jul 2018 - Sep 2018)
   * Non-graduate Research Student

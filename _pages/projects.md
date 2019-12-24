@@ -44,7 +44,7 @@ We propose a system for simultaneous localization and mapping in low-light envir
 
 We propose a novel architecture that can jointly extract local features and global features and elegantly fuse them together to perform underwater image enhancement based on the framework of conditional generative adversarial networks (cGANs) with residual blocks. The network is trained in an end-to-end fashion. Our approach is validated with subjective and objective tests and comparison against the state of the art, where we show great improvements.
 
-Xiaodong Liu, **Zhijie Wang**, Yu Herng Tan, Yingcai Bi, Ben M. Chen, Underwater Image Enhancer based on Conditional GANs, *IEEE International Conference on Robotics and Automation 2019*.
+Xiaodong Liu, Zhi Gao, **Zhijie Wang**, Yu Herng Tan, Yingcai Bi, Ben M. Chen, Underwater Image Enhancer based on Conditional GANs, *IEEE Transactions on Circuits and Systems for Video Technology.*.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c1mKxQCx_24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -37,3 +37,7 @@ I am now a second-year M.Eng student in Dept. of ECE, University of Waterloo (<a
 * <del>April 4th, 2018. A CN Patent titled "A Robot SLAM System Towards Dynamic Environments" was submitted to CNIPA (China National Intellectual Property Administration).</del>
 
 * September 11th, 2017. I joined <a href="http://nics.ee.tsinghua.edu.cn/people/ivip/index.html" target="_blank">iVip Group</a>, Tsinghua University as a research intern.
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=n-HmEyRBhTxNKciNfUvua2Z8V0J1UEoRmGcUqV39FCk&cl=ffffff&w=a"></script>

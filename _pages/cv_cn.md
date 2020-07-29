@@ -7,12 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-[EN](http://paulwong16.github.io/cv/)	[中文](http://paulwong16.github.io/cv_cn/) <a href="http://paulwong16.github.io/files/Resume_CN.pdf">简历</a>
+[EN](http://paulwong16.github.io/cv/)	[中文](http://paulwong16.github.io/cv_cn/)
 
 教育经历
 ======
-* 2019 年 9 月 至 2021 年 1 月：加拿大滑铁卢大学 电子与计算工程 硕士（预计）
-* 2015 年 9 月 至 2019 年 6 月：北京邮电大学信息与通信工程学院 通信工程专业 工学学士
+* 2019 年 9 月 至 2021 年 1 月：加拿大滑铁卢大学 电子与计算工程 机器学习与人工智能方向硕士 学分绩：92.3/100
+* 2015 年 9 月 至 2019 年 6 月：北京邮电大学信息与通信工程学院 通信工程专业 工学学士 学分绩：3.52/4.0
 
 工作/实习经历
 ======

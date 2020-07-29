@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[EN](http://paulwong16.github.io/cv/) <a href="http://paulwong16.github.io/files/Resume.pdf">CV</a>	[中文](http://paulwong16.github.io/cv_cn/)
+[EN](http://paulwong16.github.io/cv/)	[中文](http://paulwong16.github.io/cv_cn/)
 
 Education
 ======
-* M.Eng in Electrical and Computer Engineering, University of Waterloo, Jan 2021 (expected).
+* M.Eng in Electrical and Computer Engineering, specialzied in Machine Learning and Artificial Intelligence, University of Waterloo, Jan 2021 (expected). GPA: 92.3/100
 
-* B.E. in Telecommunication Engineering, Beijing University of Posts and Telecommunications, Jun 2019.
+* B.E. in Telecommunication Engineering, Beijing University of Posts and Telecommunications, Jun 2019. GPA: 3.52/4.0
 
 Experience
 ======

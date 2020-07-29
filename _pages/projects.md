@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+# Comparison on fusion-based single image HDR enhancement #
+
+Assigned to ECE 613 Project.
+
+<a href="https://github.com/paulwong16/ldr2hdr"><i class="fas fa-external-link-alt" aria-hidden="true"></i>Source Code</a>
+
 # Odom-Laser Calibration Tool #
 
 Copyright Megvii Technology Ltd. 

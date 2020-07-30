@@ -28,6 +28,8 @@ I am now a second-year M.Eng student in Dept. of ECE, University of Waterloo (<a
 
 * <del>June 5th, 2019. We submitted a CN Patent "Motion Estimation Methods, Devices, Computer Equipment and Storage Medium".</del>
 
+* March 15th, 2019. We are glad to release a toolkit for laser-odom calibration. <a href="https://github.com/MegviiRobot/OdomLaserCalibraTool" target="_blank">Check out</a> on Github for detail.
+
 * November 21st, 2018. I joined SLAM Group of Megvii Research, Megvii Technology Ltd. (Face ++) as a research intern.
 
 * September 28th, 2018. Our CN Patent "A Robot SLAM System Towards Dynamic Environments" was published. (CN110824496A)

@@ -11,7 +11,7 @@ author_profile: true
 
 ECE-203: Probability Theory and Statistics 1
 
-Office Hour: Please email me (zhijie dot wang at uwaterloo dot ca)to arrange time in adavanced.
+Office Hour: Please email me (zhijie dot wang at uwaterloo dot ca)to arrange time in adavance.
 
 Be responsible for quizzes grading:
 

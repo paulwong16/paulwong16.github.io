@@ -18,6 +18,8 @@ I am now a second-year M.Eng student in Dept. of ECE, University of Waterloo (<a
 
 # Recent News #
 
+* August 3rd, 2020. I was admitted to University of Alberta as a Ph.D. student starting from Jan 2021! Can't wait for new journey and research life!
+
 * February 21st, 2020. Our CN Patent "Motion Estimation Methods, Devices, Computer Equipment and Storage Medium" was published. (CN110824496A)
 
 * September 2nd, 2019. I started my Master study in University of Waterloo.

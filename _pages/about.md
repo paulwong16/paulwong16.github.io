@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second-year M.Eng student in Dept. of ECE, University of Waterloo (<a href="https://uwaterloo.ca/" target="_blank">UWaterloo</a>), and expected to graduate in Jan 2021. I received my B.Eng in Telecommunication Engineering at Beijing University of Posts and Telecommunications (<a href="https://www.bupt.edu.cn/" target="_blank">BUPT</a>) in Jun 2019. <a href="http://paulwong16.github.io/files/Resume.pdf" target="_blank">Click here</a> to view my up-to-date CV. If you want to know more about me, please feel free to shot me an email (paul dot wangzhijie at outlook dot com).
+I am now a second-year M.Eng student in Dept. of ECE, University of Waterloo (<a href="https://uwaterloo.ca/" target="_blank">UWaterloo</a>), and expected to graduate in Dec 2020. I received my B.Eng in Telecommunication Engineering at Beijing University of Posts and Telecommunications (<a href="https://www.bupt.edu.cn/" target="_blank">BUPT</a>) in Jun 2019. <a href="http://paulwong16.github.io/files/Resume.pdf" target="_blank">Click here</a> to view my up-to-date CV. If you want to know more about me, please feel free to shot me an email (paul dot wangzhijie at outlook dot com).
 
 # Research Interests #
 
-* SLAM, VIO
+* SLAM
 
-* Computer Vision Issue
+* 3D Computer Vision
 
 # Recent News #
 

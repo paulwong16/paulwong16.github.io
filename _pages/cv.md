@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* M.Eng in Electrical and Computer Engineering, specialzied in Machine Learning and Artificial Intelligence, University of Waterloo, Jan 2021 (expected). GPA: 92.3/100
+* M.Eng in Electrical and Computer Engineering, specialzied in Machine Learning and Artificial Intelligence, University of Waterloo, Dec 2020 (expected). GPA: 92/100
 
-* B.E. in Telecommunication Engineering, Beijing University of Posts and Telecommunications, Jun 2019. GPA: 3.52/4.0
+* B.E. in Telecommunication Engineering, Beijing University of Posts and Telecommunications, Jun 2019. GPA: 3.5/4.0
 
 Experience
 ======

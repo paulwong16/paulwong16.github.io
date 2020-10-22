@@ -1,16 +1,3 @@
 # main links links
 main:
-  - title: "Bio"
-    url: /cv/
 
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Teaching"
-    url: /teach/
-
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Blog Posts"
-    url: /posts/

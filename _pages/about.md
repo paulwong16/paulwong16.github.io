@@ -1,14 +1,12 @@
 ---
 permalink: /
-title:
+title: "Zhijie Wang (王智杰)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Zhijie Wang (王智杰)
 
 [Department of Electrical and Computer Engineering](https://www.ualberta.ca/engineering/electrical-computer-engineering/index.html)
 

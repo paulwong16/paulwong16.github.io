@@ -28,13 +28,13 @@ I am now a second-year M.Eng student in Dept. of ECE, <a href="https://uwaterloo
 <table>
 <tr>
 <td>
-<a><img src="http://paulwong16.github.io/files/BUPT.png" alt="calibration_tool" width="200"/></a>
+<a><img src="http://paulwong16.github.io/files/BUPT.png" alt="BUPT" width="200"/></a>
 </td>
 <td>
-<a><img src="http://paulwong16.github.io/files/UW.png" alt="calibration_tool" width="200"/></a>
+<a><img src="http://paulwong16.github.io/files/UW.png" alt="UW" width="200"/></a>
 </td>
 <td>
-<a><img src="http://paulwong16.github.io/files/UA.png" alt="calibration_tool" width="200"/></a>
+<a><img src="http://paulwong16.github.io/files/UA.png" alt="UA" width="200"/></a>
 </td>
 </tr>
 </table>

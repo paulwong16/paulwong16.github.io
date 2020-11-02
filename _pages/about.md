@@ -27,11 +27,10 @@ I am now a second-year M.Eng student in Dept. of ECE, <a href="https://uwaterloo
 
 
 
-<center class="half">
-    <img src="http://paulwong16.github.io/files/BUPT.png" alt="BUPT" width="150"/>
-    <img src="http://paulwong16.github.io/files/UW.png" alt="UW" width="150"/>
-    <img src="http://paulwong16.github.io/files/UA.png" alt="UA" width="150"/>
-</center>
+<img src="http://paulwong16.github.io/files/BUPT.png" alt="BUPT" width="200" align="left"/>
+<img src="http://paulwong16.github.io/files/UW.png" alt="UW" width="200" align="middle"/> 
+<img src="http://paulwong16.github.io/files/UA.png" alt="UA" width="200" align="right"/>
+
 
 
 

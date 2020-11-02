@@ -27,7 +27,7 @@ I am now a second-year M.Eng student in Dept. of ECE, <a href="https://uwaterloo
 
 <br/>
 
-<div align=center>![EDU](http://paulwong16.github.io/filesedu.png)
+![EDU](http://paulwong16.github.io/filesedu.png)
 
 <br/>
 

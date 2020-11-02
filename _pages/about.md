@@ -25,6 +25,12 @@ Email: zhijie4 (at) ualberta (dot) ca
 
 I am now a second-year M.Eng student in Dept. of ECE, <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>, and will graduate in Dec 2020. I received my B.Eng in Telecommunication Engineering at Beijing University of Posts and Telecommunications (<a href="https://english.bupt.edu.cn/" target="_blank">BUPT</a>) in Jun 2019. During undergraduate I got a chance to work with <a href="https:/bmchen.net/" target="_blank">Prof. Ben M. Chen</a>, and spent a happy 3 months at <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>.
 
+<center class="half">
+    <img src="http://paulwong16.github.io/files/BUPT.png" alt="BUPT" width="200"/>
+    <img src="http://paulwong16.github.io/files/UW.png" alt="UW" width="200"/>
+    <img src="http://paulwong16.github.io/files/UA.png" alt="UA" width="200"/>
+</center>
+
 
 <a href="http://paulwong16.github.io/files/Resume.pdf" target="_blank">CV</a> (Last update at August 20)
 

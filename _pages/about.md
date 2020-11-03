@@ -27,29 +27,7 @@ I am now a second-year M.Eng student in Dept. of ECE, <a href="https://uwaterloo
 
 <br/>
 
-<table border="0">
-<tr>
-    <td>
-        <table border="0">
-            <tr>
-                <td><img src="http://paulwong16.github.io/files/BUPT.png" alt="BUPT" width="150"/></td>
-                <td><img src="http://paulwong16.github.io/files/nus_logo_full-vertical.jpg" alt="NUS" width="150"/></td>
-                <td><img src="http://paulwong16.github.io/files/UW.png" alt="UW" width="150"/></td>
-                <td><img src="http://paulwong16.github.io/files/UA.png" alt="UA" width="150"/></td>
-            </tr>
-            <table border="0">
-            <tr>
-                <td>Sep. 2015 - Jun. 2019</td>
-                <td>Jul. 2018 - Sep. 2018</td>
-                <td>Sep. 2010 - Jan. 2021</td>
-                <td>Jan. 2021 - </td>
-            </tr>
-            </table>
-        </table>
-    </td>
-</tr>
-
-</table>
+<div align=center><img src="http://paulwong16.github.io/files/edu.png" alt="education"/></div>
 
 <br/>
 

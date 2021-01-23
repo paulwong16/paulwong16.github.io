@@ -17,13 +17,9 @@ Edmonton, AB, Canada T6G 2R3
 Email: zhijie4 (at) ualberta (dot) ca
 
 --------------------------------------------------------
-
-**I will join ECE@UAlberta in Jan 2021 as a Ph.D. student.**
-
---------------------------------------------------------
 ## Biography
 
-I am now a second-year M.Eng student in Dept. of ECE, <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>, and will graduate in Dec 2020. I received my B.Eng in Telecommunication Engineering at Beijing University of Posts and Telecommunications (<a href="https://english.bupt.edu.cn/" target="_blank">BUPT</a>) in Jun 2019. During undergraduate I got a chance to work with <a href="https:/bmchen.net/" target="_blank">Prof. Ben M. Chen</a>, and spent a happy 3 months at <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>.
+I am now a first-year Ph.D. student in Dept. of ECE, <a href="https://ualberta.ca" target="_blank">University of Alberta</a>. I received my M.Eng with specialization in AI&ML from <a href="https://uwaterloo.ca" target="_blank">University of Waterloo</a> in Dec 2020, B.Eng in Telecommunication Engineering from Beijing University of Posts and Telecommunications (<a href="https://english.bupt.edu.cn/" target="_blank">BUPT</a>) in Jun 2019. During undergraduate I got a chance to work with <a href="https:/bmchen.net/" target="_blank">Prof. Ben M. Chen</a>, and spent a happy 3 months at <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>.
 
 <br/>
 
@@ -44,7 +40,7 @@ My first name is 智杰 (Zhi Jie), pronounced /ʈʂɚ/ /tɕjɛ/, similar to (Chi
 
 # Recent News #
 
-* August 3rd, 2020. I was admitted to University of Alberta as a Ph.D. student starting from Jan 2021! Can't wait for new journey and research life!
+* Jan 4th, 2021. I started my Master study in University of Alberta.
 
 * February 21st, 2020. Our CN Patent "Motion Estimation Methods, Devices, Computer Equipment and Storage Medium" was published. (CN110824496A)
 

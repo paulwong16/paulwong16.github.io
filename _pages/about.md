@@ -40,7 +40,7 @@ My first name is 智杰 (Zhi Jie), pronounced /ʈʂɚ/ /tɕjɛ/, similar to (Chi
 
 # Recent News #
 
-* Jan 4th, 2021. I started my Master study in University of Alberta.
+* Jan 4th, 2021. I started my Ph.D. study in University of Alberta.
 
 * February 21st, 2020. Our CN Patent "Motion Estimation Methods, Devices, Computer Equipment and Storage Medium" was published. (CN110824496A)
 

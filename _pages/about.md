@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-[Department of Electrical and Computer Engineering](https://www.ualberta.ca/engineering/electrical-computer-engineering/index.html)
+Donadeo Innovation Centre For Engineering
 
-University of Alberta
+9211-116 St
 
-Edmonton, AB, Canada T6G 2R3
+Edmonton  AB
+
+T6G 2H5
 
 Email: zhijie4 (at) ualberta (dot) ca
 

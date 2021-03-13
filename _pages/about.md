@@ -16,7 +16,7 @@ Edmonton  AB
 
 T6G 2H5
 
-Email: zhijie4 (at) ualberta (dot) ca
+Email: {FirstName}.{LastName}@ualberta.ca
 
 --------------------------------------------------------
 ## Biography

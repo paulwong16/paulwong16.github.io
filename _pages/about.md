@@ -25,6 +25,27 @@ I am now a first-year Ph.D. student in Dept. of ECE, <a href="https://ualberta.c
 
 <br/>
 
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+
 <div class="row">
   <div class="column">
     <img src="http://paulwong16.github.io/files/BUPT.png" alt="BUPT" style="width:100%">

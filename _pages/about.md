@@ -61,7 +61,7 @@ I am now a first-year Ph.D. student in Dept. of ECE, <a href="https://ualberta.c
 <br/>
 
 
-<a href="http://paulwong16.github.io/files/Resume.pdf" target="_blank">CV</a> (Last update at August 20)
+<a href="http://paulwong16.github.io/files/Resume.pdf" target="_blank">CV</a> (Last update at April 21)
 
 My first name is 智杰 (Zhi Jie), pronounced /ʈʂɚ/ /tɕjɛ/, similar to (Chih-Chieh). Just call me Paul if you feel difficult on this pronunciation.
 

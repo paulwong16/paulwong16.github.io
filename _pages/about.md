@@ -21,7 +21,7 @@ Email: {FirstName}.{LastName}@ualberta.ca
 --------------------------------------------------------
 ## Biography
 
-I am now a first-year Ph.D. student in Dept. of ECE, <a href="https://ualberta.ca" target="_blank">University of Alberta</a>. I received my M.Eng with specialization in AI&ML from <a href="https://uwaterloo.ca" target="_blank">University of Waterloo</a> in Dec 2020, B.Eng in Telecommunication Engineering from Beijing University of Posts and Telecommunications (<a href="https://english.bupt.edu.cn/" target="_blank">BUPT</a>) in Jun 2019. During undergraduate I got a chance to work with <a href="https:/bmchen.net/" target="_blank">Prof. Ben M. Chen</a>, and spent a happy 3 months at <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>.
+I am now a first-year Ph.D. student in Dept. of ECE, <a href="https://ualberta.ca" target="_blank">University of Alberta</a>, supervised by <a href="https://malei.xyz" target="_blank">Prof. Lei Ma</a>. I received my M.Eng of Electrical and Computer Engineering with specialization in ML&AI from <a href="https://uwaterloo.ca" target="_blank">University of Waterloo</a> in Dec 2020, B.Eng of Telecommunication Engineering from Beijing University of Posts and Telecommunications (<a href="https://english.bupt.edu.cn/" target="_blank">BUPT</a>) in Jun 2019. During undergraduate I got a chance to work with <a href="https:/bmchen.net/" target="_blank">Prof. Ben M. Chen</a>, and spent a happy 3 months at <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>.
 
 <br/>
 
@@ -48,13 +48,13 @@ I am now a first-year Ph.D. student in Dept. of ECE, <a href="https://ualberta.c
 
 <div class="row">
   <div class="column">
-    <img src="http://paulwong16.github.io/files/BUPT.png" alt="BUPT" style="width:100%">
+    <img src="http://paulwong16.github.io/files/BUPT.png" alt="BUPT" style="width:80%">
   </div>
   <div class="column">
-    <img src="http://paulwong16.github.io/files/UW.png" alt="UWaterloo" style="width:100%">
+    <img src="http://paulwong16.github.io/files/UW.png" alt="UWaterloo" style="width:80%">
   </div>
   <div class="column">
-    <img src="http://paulwong16.github.io/files/UA.png" alt="UAlberta" style="width:100%">
+    <img src="http://paulwong16.github.io/files/UA.png" alt="UAlberta" style="width:80%">
   </div>
 </div>
 
@@ -67,9 +67,9 @@ My first name is 智杰 (Zhi Jie), pronounced /ʈʂɚ/ /tɕjɛ/, similar to (Chi
 
 # Research Interests #
 
-* SLAM
+* Intelligent Software System.
 
-* 3D Computer Vision
+* 3D Computer Vision.
 
 # Recent News #
 

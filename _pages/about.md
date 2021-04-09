@@ -25,7 +25,17 @@ I am now a first-year Ph.D. student in Dept. of ECE, <a href="https://ualberta.c
 
 <br/>
 
-<div align=center><img src="http://paulwong16.github.io/files/edu.png" alt="education"/></div>
+<div class="row">
+  <div class="column">
+    <img src="http://paulwong16.github.io/files/BUPT.png" alt="BUPT" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="http://paulwong16.github.io/files/UW.png" alt="UWaterloo" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="http://paulwong16.github.io/files/UA.png" alt="UAlberta" style="width:100%">
+  </div>
+</div>
 
 <br/>
 

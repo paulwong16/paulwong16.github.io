@@ -86,6 +86,14 @@ My first name is 智杰 (Zhi Jie), pronounced /ʈʂɚ/ /tɕjɛ/, similar to (Chi
 
 - Research Intern @ Megvii Research Beijing, 2018-2019
 
+# Teaching
+
+- ECE 203, Probability Theory and Statistics 1, University of Waterloo (Spring 2020).
+   - Graduate Teaching Assistant
+
+- ECE 325, Object-Oriented Software Design, Universirt of Alberta (Fall 2021).
+  - Graduate Teaching Assistant & Lab Instrutor
+
 # Misc
 
 I have been playing football (played as a school team member during high school) and a fan of FC Barcelona for several years, unfortunately, I got a serious backache in my senior year (but I can still play on PES and FIFA lol).

@@ -19,7 +19,7 @@ T6G 2H5
 Email: {FirstName}.{LastName}@ualberta.ca
 
 --------------------------------------------------------
-## Biography
+## Short Bio
 
 I am now a first-year Ph.D. student in Dept. of ECE, <a href="https://ualberta.ca" target="_blank">University of Alberta</a>, supervised by <a href="https://malei.xyz" target="_blank">Prof. Lei Ma</a>. I received my M.Eng of Electrical and Computer Engineering with specialization in ML&AI from <a href="https://uwaterloo.ca" target="_blank">University of Waterloo</a> in Dec 2020, B.Eng of Telecommunication Engineering from Beijing University of Posts and Telecommunications (<a href="https://english.bupt.edu.cn/" target="_blank">BUPT</a>) in Jun 2019. During undergraduate I got a chance to work with <a href="https:/bmchen.net/" target="_blank">Prof. Ben M. Chen</a>, and spent a happy 3 months at <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>.
 
@@ -65,7 +65,7 @@ I am now a first-year Ph.D. student in Dept. of ECE, <a href="https://ualberta.c
 
 My first name is 智杰 (Zhi Jie), pronounced /ʈʂɚ/ /tɕjɛ/, similar to (Chih-Chieh). Just call me Paul if you feel difficult on this pronunciation.
 
-# Research Interests #
+## Research Interests
 
 * Intelligent Software System.
 
@@ -77,23 +77,46 @@ My first name is 智杰 (Zhi Jie), pronounced /ʈʂɚ/ /tɕjɛ/, similar to (Chi
 
   * Visual and LiDAR SLAM (Simultaneous Localization and Mapping).
 
-# Recent News #
-
-* Jan 4th, 2021. I started my Ph.D. study in University of Alberta.
-
-
-# Industry
+## Industry
 
 - Research Intern @ Megvii Research Beijing, 2018-2019
 
-# Teaching
+## Teaching
 
-- ECE 203, Probability Theory and Statistics 1, University of Waterloo (Spring 2020).
+- ECE 203 Probability Theory and Statistics 1, University of Waterloo (Spring 2020).
    - Graduate Teaching Assistant
 
-- ECE 325, Object-Oriented Software Design, Universirt of Alberta (Fall 2021).
+- ECE 325 Object-Oriented Software Design, Universirt of Alberta (Fall 2021).
   - Graduate Teaching Assistant & Lab Instrutor
 
-# Misc
+## Graduate Course History
+
+- University of Waterloo
+
+  - ECE 606 Algorithm Design and Analysis, Fall 2019 - [Prof. Mahesh Tripunitara](https://ece.uwaterloo.ca/~tripunit/)
+
+  - ECE 613 Image Processing and Visual Communications, Fall 2019 - [Prof. Zhou Wang](https://ece.uwaterloo.ca/~z70wang)
+
+  - ECE 602 Introduction To Optimization, Winter 2020 - [Prof. Oleg Michailovich](https://ece.uwaterloo.ca/~olegm/)
+
+  - ECE 657A Data and Knowledge Modeling and Analysis, Winter 2020 - [Prof. Mark Crowley](https://uwaterloo.ca/scholar/mcrowley)
+
+  - ECE 715 Wireless Communication Networks, Winter 2020 - [Prof. Sherman Shen](http://bbcr.uwaterloo.ca/~xshen)
+
+  - CS 680 Introduction to Machine Learning, Spring 2020 - [Prof. Yaoliang YU](https://cs.uwaterloo.ca/~y328yu/)
+
+  - ECE 657 Tools of Intelligent Systems Design, Spring 2020 - [Dr. Haitham Amar]()
+
+  - ECE 650 Methods and Tools for Software Engineering, Fall 2020 - [Prof. Arie Gurfinkel](https://arieg.bitbucket.io/)
+
+- University of Alberta
+
+  - ECE 540 Detection and Estimation, Winter 2021 - [Dr. Mengqi Fang](https://apps.ualberta.ca/directory/person/mfang1)
+
+  - ECE 625 Data Analysis and Knowledge Discovery, Winter 2021 - [Prof. Di Niu](https://sites.ualberta.ca/~dniu/Homepage/Home.html)
+
+  - ECE 644 Digital Image and Video Processing - [Prof. Daniel Aalto](https://apps.ualberta.ca/directory/person/aalto)
+
+## Misc
 
 I have been playing football (played as a school team member during high school) and a fan of FC Barcelona for several years, unfortunately, I got a serious backache in my senior year (but I can still play on PES and FIFA lol).

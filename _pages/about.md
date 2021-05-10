@@ -69,21 +69,17 @@ My first name is 智杰 (Zhi Jie), pronounced /ʈʂɚ/ /tɕjɛ/, similar to (Chi
 
 * Intelligent Software System.
 
+  * Reliable sensing system for autonomous driving.
+	
+  * Adversarial attack and defense on perception.
+
 * 3D Computer Vision.
+
+  * Visual and LiDAR SLAM (Simultaneous Localization and Mapping).
 
 # Recent News #
 
 * Jan 4th, 2021. I started my Ph.D. study in University of Alberta.
-
-* February 21st, 2020. Our CN Patent "Motion Estimation Methods, Devices, Computer Equipment and Storage Medium" was published. (CN110824496A)
-
-* September 2nd, 2019. I started my Master study in University of Waterloo.
-
-* June 26th, 2019. I graduated from Beijing University of Posts and Telecommunications with Bachelor of Engineering.
-
-* June 20th, 2019. I ended the wonderful journey in Megvii Tech, thanks to all of my colleagues, friends and mentors!
-
-* <del>June 5th, 2019. We submitted a CN Patent "Motion Estimation Methods, Devices, Computer Equipment and Storage Medium".</del>
 
 
 # Industry

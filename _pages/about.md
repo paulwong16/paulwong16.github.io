@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Donadeo Innovation Centre For Engineering
+ECERF W4-030
 
-9211-116 St
+9107-116 St
 
-Edmonton  AB
+Edmonton AB
 
-T6G 2H5
+T6G 2W3
 
 Email: {FirstName}.{LastName}@ualberta.ca
 
